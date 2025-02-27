@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arav1d4n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arav1nd4n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🔗 Connect with Me
@@ -13,17 +13,24 @@
   <a href="https://linkedin.com/in/arav1nd4n" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+## 🌍 Other Platforms
+<p align="center">
   <a href="https://kaggle.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://www.hackerrank.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://www.leetcode.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerearth.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+    <img src="https://img.shields.io/badge/HackerEarth-grey?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
   </a>
 </p>
 
@@ -46,7 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=arav1nd4n&theme=dark" alt="GitHub Streak" />
-</a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arav1nd4n&theme=radical" alt="GitHub Streak" />
+</p>
