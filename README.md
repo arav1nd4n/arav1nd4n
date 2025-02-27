@@ -46,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arav1d4n&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=arav1d4n&theme=radical"/>
+</a>
+
