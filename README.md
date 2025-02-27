@@ -1,74 +1,62 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=BF0505&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+WELCOME+TO+MY+CYPERSPACE+%E2%9A%A1" />
-</h1>
+<h1 align="center" style="font-family:Orbitron; color:#BF0505;">ARAVINDAN S</h1>
+<h3 align="center" style="font-family:Orbitron; color:#BF0505;">A Passionate Cybersecurity Student</h3>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=00FF00&center=true&vCenter=true&width=800&height=40&lines=Cybersecurity+%7C+Pentesting+%7C+Digital+Forensics;Security+Researcher+%26+Red+Teamer;Exploring+Ethical+Hacking+and+Threat+Analysis" />
-</h3>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arav1nd4n&label=Profile%20views&color=BF0505&style=flat" alt="Profile Views" />
+## 🚀 About Me:
+
+🔹 A dedicated cybersecurity student passionate about securing digital landscapes.<br>
+🔹 Currently learning **Web Application Security, Incident Response**, and more.<br>
+🔹 Exploring **Penetration Testing, Ethical Hacking, and Security Best Practices**.<br>
+🔹 Ask me about **Network Security, Exploitation Techniques, and Threat Analysis**.<br>
+
+📫 **How to reach me:** **arav1nd4n@gmail.com**<br>
+💼 **LinkedIn:** [Aravindan S](https://linkedin.com/in/arav1nd4n)
+
+---
+
+## 🔥 Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=%2300FF00" />
 </p>
 
 ---
 
-## 🛡️ **About Me**
-💀 Cybersecurity student dedicated to securing digital infrastructure.<br>
-⚡ Currently diving deep into Web Security, Reverse Engineering, and Incident Response.<br>
-🔍 Passionate about Ethical Hacking, Red Teaming, and Threat Hunting.<br>
-📜 Always learning & experimenting with security exploits.<br>
+## ⚡ Other Platforms:
 
----
-
-## 🔗 **Connect with Me**
-<p align="center">
-  <a href="https://linkedin.com/in/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-BF0505?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%2300FF00" />
+  <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%2300FF00" />
 </p>
 
 ---
 
-## 💻 **Tech Arsenal**
+## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-BF0505?style=for-the-badge&logo=linux&logoColor=00FF00&labelColor=000000" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-00FF00?style=for-the-badge&logo=kalilinux&logoColor=00FF00&labelColor=000000" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Python-BF0505?style=for-the-badge&logo=python&logoColor=00FF00&labelColor=000000" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-00FF00?style=for-the-badge&logo=gnubash&logoColor=00FF00&labelColor=000000" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Nmap-BF0505?style=for-the-badge&logo=nmap&logoColor=00FF00&labelColor=000000" alt="Nmap"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&theme=dark&hide_border=false&show_icons=true&title_color=#BF0505&text_color=#00FF00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav1nd4n&theme=dark&hide_border=false&stroke=#BF0505" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&theme=dark&title_color=BF0505&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="GitHub Stats" />
-</p>
+## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arav1nd4n&theme=dark&fire=BF0505&ring=00FF00&sideNums=00FF00&currStreakNum=BF0505&currStreakLabel=00FF00&sideLabels=BF0505&dates=00FF00&stroke=00FF00&background=000000" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arav1nd4n&theme=darkhub&no-frame=true&column=7&margin-w=5&title_color=#BF0505" />
 </p>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## ✍️ Random Cybersecurity Quote:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arav1nd4n&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## ✍️ **Random Hacker Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
-
----
-
-## 🔝 **Top Contributions**
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arav1nd4n&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=#00FF00" />
 </p>
