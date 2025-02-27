@@ -46,8 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arav1d4n&theme=graywhite" alt="GitHub Trophies"/>
-  </a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=arav1nd4n&theme=dark" alt="GitHub Streak" />
+</a>
+
