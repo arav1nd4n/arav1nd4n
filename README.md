@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARAVINDAN S</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Futurism&size=22&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=A+Passionate+Cybersecurity+Student;Exploring+Data+Science+and+AI;Always+Learning+and+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=A+Passionate+Cybersecurity+Student;Exploring+Data+Science+and+AI;Always+Learning+and+Building!" />
 </h3>
 
 <p align="center">
@@ -18,19 +18,13 @@
   </a>
 </p>
 
-## 🌍 Other Platforms
+## ⚡ Coding & Tech Profiles
 <p align="center">
-  <a href="https://kaggle.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
   <a href="https://www.hackerrank.com/arav1nd4n" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://www.leetcode.com/arav1nd4n" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerearth.com/arav1nd4n" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-grey?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
   </a>
 </p>
 
