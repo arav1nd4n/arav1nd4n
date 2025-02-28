@@ -1,6 +1,4 @@
-# 👾 Hi Guys, This is Aravindan ...
-
-![Header](https://raw.githubusercontent.com/arav1nd4n/arav1nd4n/main/banner.png)
+#  🤨Hi Guys, This is Aravindan ...
 
 ## 🔥 About Me
 
