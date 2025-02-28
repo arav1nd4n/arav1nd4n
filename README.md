@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=BF0505)](https://linkedin.com/in/arav1nd4n)  
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=black&labelColor=BF0505)](mailto:your_email@gmail.com)
 
-## 🕶️ Cyber Arsenal (Tech Stack)
+## 🕶️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=black&labelColor=BF0505)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=BF0505)  
