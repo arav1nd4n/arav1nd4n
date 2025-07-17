@@ -32,11 +32,11 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
   <a href="https://linkedin.com/in/arav1nd4n">
     <img src="https://img.shields.io/badge/LinkedIn-BF0505?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-BF0505?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  
   <a href="https://instagram.com/yourusername">
     <img src="https://img.shields.io/badge/Instagram-BF0505?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
