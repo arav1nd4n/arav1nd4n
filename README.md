@@ -17,12 +17,14 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 
 ## 📄 Resume
 
-📥 [Download Resume (PDF)](https://your-cloud-service.com/your-resume.pdf)
+<p align="center">
+  <a href="https://your-cloud-service.com/your-resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-BF0505?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
 
-> **How to set this up:**  
-> 1. Upload your resume to Google Drive / Dropbox / OneDrive  
-> 2. Set link sharing to “Anyone with the link can view”  
-> 3. Paste the shareable link above  
+> **Setup Tip:**  
+> Upload your PDF to Google Drive / Dropbox / OneDrive → Set to “Anyone with the link can view” → Replace the above link
 
 ---
 
@@ -32,11 +34,11 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
   <a href="https://linkedin.com/in/arav1nd4n">
     <img src="https://img.shields.io/badge/LinkedIn-BF0505?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+  &nbsp;&nbsp;│&nbsp;&nbsp;
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-BF0505?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+  &nbsp;&nbsp;│&nbsp;&nbsp;
   <a href="https://instagram.com/yourusername">
     <img src="https://img.shields.io/badge/Instagram-BF0505?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -82,11 +84,11 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/username/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" width="90%" />
+  <img src="https://ghchart.rshah.org/BF0505/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" width="90%" />
 </p>
 
 ---
 
 <p align="center">
-  <em><strong>Keep your focus on impact and continuous improvement.</strong></em>
+  <strong><em>Keep your focus on impact and continuous improvement.</em></strong>
 </p>
