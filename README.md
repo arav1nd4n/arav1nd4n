@@ -16,34 +16,29 @@ A passionate learner in **Cybersecurity & Data Science** with a strong drive for
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=BF0505)](https://linkedin.com/in/arav1nd4n)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=black&labelColor=BF0505)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arav1nd4n)
+[![Email](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages & Shell**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=black&labelColor=BF0505)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=BF0505)
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black&labelColor=BF0505)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black&labelColor=BF0505)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-222222?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Security Tools**  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=black&labelColor=BF0505)  
-![Metasploit](https://img.shields.io/badge/Metasploit-4B4B4B?style=for-the-badge&logo=metasploit&logoColor=black&labelColor=BF0505)  
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=black&labelColor=BF0505)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=BF0505)
+**Cybersecurity Tools**  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-222222?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-222222?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-222222?style=for-the-badge&logo=wireshark&logoColor=white)
 
----
-
-## 🛠️ Favorite Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=BF0505)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=BF0505)  
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=black&labelColor=BF0505)
+**Development Tools**  
+![VS Code](https://img.shields.io/badge/VS_Code-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
