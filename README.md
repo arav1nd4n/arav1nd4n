@@ -34,7 +34,7 @@ A passionate learner in **Cybersecurity & Data Science** with a strong drive for
 **Cybersecurity Tools**  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-BF0505?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-BF0505?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-BF0505?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-BF0505?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-BF0505?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Development Tools**  
@@ -53,28 +53,10 @@ A passionate learner in **Cybersecurity & Data Science** with a strong drive for
 
 ---
 
-## 🏆 GitHub Achievements
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arav1nd4n&theme=darkhub&title=Commit,Repositories,Stars,Followers,PullRequest&margin-w=4&no-frame=true&column=5&row=1&no-bg=true" />
-</p>
-
----
-
-## 📖 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Top 10 Cyber Threats of 2025](https://medium.com/@arav1nd4n)
-- [Why Red Teaming is Critical for Organizations](https://medium.com/@arav1nd4n)
-- [Mastering Ethical Hacking: A Beginner's Guide](https://medium.com/@arav1nd4n)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🔝 Most Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arav1nd4n&limit=5&theme=dark&title_color=BF0505&text_color=ffffff&icon_color=BF0505&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arav1nd4n&bg_color=0d1117&color=ff4c4c&line=8B0000&point=BF0505&area=true&area_color=330000&hide_border=false" width="100%" />
 </p>
 
 ---
