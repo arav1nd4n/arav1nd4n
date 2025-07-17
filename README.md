@@ -19,7 +19,7 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 
 <p align="center">
   <a href="https://your-cloud-service.com/your-resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-BF0505?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+    <img src="https://img.shields.io/badge/Download_Resume-800000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
 
@@ -32,15 +32,15 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 
 <p align="center">
   <a href="https://linkedin.com/in/arav1nd4n">
-    <img src="https://img.shields.io/badge/LinkedIn-BF0505?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;│&nbsp;&nbsp;
   <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BF0505?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-800000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;│&nbsp;&nbsp;
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-BF0505?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-800000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -49,23 +49,23 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-BF0505?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-BF0505?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-BF0505?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-BF0505?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-BF0505?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-BF0505?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-BF0505?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-BF0505?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-BF0505?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-BF0505?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-BF0505?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-BF0505?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-BF0505?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nano-BF0505?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-BF0505?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-BF0505?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zsh-BF0505?style=for-the-badge&logo=zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-800000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-800000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-800000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-800000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-800000?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-800000?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-800000?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-800000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-800000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-800000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-800000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-800000?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nano-800000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-800000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-800000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-800000?style=for-the-badge&logo=zsh&logoColor=white" />
 </p>
 
 ---
@@ -73,10 +73,10 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&title_color=BF0505&text_color=ffffff&icon_color=BF0505&bg_color=0d1117&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav1nd4n&theme=dark&ring=BF0505&fire=BF0505&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=BF0505" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arav1nd4n&show_icons=true&title_color=800000&text_color=ffffff&icon_color=800000&bg_color=0d1117&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav1nd4n&theme=dark&ring=800000&fire=800000&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=800000" width="48%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav1nd4n&title_color=BF0505&text_color=ffffff&icon_color=BF0505&bg_color=0d1117&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav1nd4n&title_color=800000&text_color=ffffff&icon_color=800000&bg_color=0d1117&hide_border=false&layout=compact" width="48%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/BF0505/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" width="90%" />
+  <img src="https://ghchart.rshah.org/800000/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" width="90%" />
 </p>
 
 ---
