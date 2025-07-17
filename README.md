@@ -83,11 +83,13 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=arav1nd4n&color=800000&bg=000000&line=000000&point=800000&area=true&radius=6&size=1.3" alt="GitHub Contribution Calendar in Maroon and Black" width="95%" />
+  <img src="https://ghchart.rshah.org/800000/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" style="background-color:#0d1117; padding:10px; border-radius:10px;" />
 </p>
+
 
 ---
 
 <p align="center">
   <strong><em>Keep your focus on impact and continuous improvement.</em></strong>
 </p>
+
