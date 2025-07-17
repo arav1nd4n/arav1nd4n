@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true=800&lines=SYSTEMS+ARCHITECT+%7C+THREAT+HUNTER+%7C+SECURITY+RESEARCHER;ETHICAL+PRACTITIONER+%7C+DATA+ANALYST+%7C+INCIDENT+RESPONSE+SPECIALIST)](https://git.io/typing-svg)
+[![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=8B0000&center=true&vCenter=false=800&lines=SYSTEMS+ARCHITECT+%7C+THREAT+HUNTER+%7C+SECURITY+RESEARCHER;ETHICAL+PRACTITIONER+%7C+DATA+ANALYST+%7C+INCIDENT+RESPONSE+SPECIALIST)](https://git.io/typing-svg)
 
 </div>
 
