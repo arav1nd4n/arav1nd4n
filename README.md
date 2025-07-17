@@ -51,7 +51,6 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 <p align="center">
   <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-800000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-800000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-800000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-800000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-800000?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -62,10 +61,10 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
   <img src="https://img.shields.io/badge/Wireshark-800000?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-800000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-800000?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nano-800000?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-800000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-800000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-800000?style=for-the-badge&logo=zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoLand-800000?style=for-the-badge&logo=goland&logoColor=white" />
 </p>
 
 ---
@@ -84,7 +83,7 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/800000/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" width="90%" />
+  <img src="https://github-contributions.vercel.app/api?username=arav1nd4n&color=800000&bg=000000&line=000000&point=800000&area=true&radius=6&size=1.3" alt="GitHub Contribution Calendar in Maroon and Black" width="95%" />
 </p>
 
 ---
