@@ -97,4 +97,4 @@
 <div align="center" style="margin-top: 40px; padding: 25px; border-top: 1px solid #8B0000;">
   <h3 style="color:#8B0000;">Security Philosophy</h3>
   <p><em>"Vigilance is the currency of trust in digital ecosystems. I engineer security through adversarial understanding, transforming vulnerabilities into resilience benchmarks."</em></p>
-</div>
+</div> 
