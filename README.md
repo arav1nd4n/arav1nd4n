@@ -83,7 +83,7 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/800000/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" style="background-color:#0d1117; padding:10px; border-radius:10px;" />
+  <img src="https://ghchart.rshah.org/800000/arav1nd4n" alt="Aravindan's 365-day Contribution Graph" style="background-color:#808080; padding:10px; border-radius:10px;" />
 </p>
 
 
