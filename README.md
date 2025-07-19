@@ -78,10 +78,8 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 
 ---
 
-
----
-
 <p align="center">
   <strong><em>Keep your focus on impact and continuous improvement.</em></strong>
 </p>
 
+---
