@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I’m Aravindan</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arav1nd4n&label=Profile%20Views&color=800000&style=flat-square" alt="arav1nd4n" />
+</p>
 
 <p align="justify">
 I am a driven Cybersecurity & Data Science enthusiast with a proven ability to dissect complex systems, secure critical assets, and lead initiatives from conception to completion. With hands-on experience in ethical hacking, penetration testing, and digital forensics, I combine technical rigor with clear communication to deliver solutions that align with business objectives and compliance requirements. I thrive under pressure, adapt quickly to new challenges, and maintain focus on delivering measurable security improvements.
