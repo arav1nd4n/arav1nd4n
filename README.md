@@ -21,13 +21,10 @@ I am a driven Cybersecurity & Data Science enthusiast with a proven ability to d
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://your-cloud-service.com/your-resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1i-R8DSbZ3k70qgHkeeZKBUjOEi-iErsG/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-800000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
-
-> **Setup Tip:**  
-> Upload your PDF to Google Drive / Dropbox / OneDrive → Set to “Anyone with the link can view” → Replace the above link
 
 ---
 
